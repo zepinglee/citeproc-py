@@ -9,7 +9,7 @@ citation
 
 
 >>===== RESULT =====>>
-(Doe)
+(Doe )
 (Doe 23)
 <<===== RESULT =====<<
 
@@ -40,7 +40,7 @@ citation
   <info>
     <id />
     <title />
-    <updated>2024-07-26T21:37:09+08:00</updated>
+    <updated>2024-11-30T22:23:33+08:00</updated>
   </info>
   <macro name="author-short">
     <group delimiter=", ">
